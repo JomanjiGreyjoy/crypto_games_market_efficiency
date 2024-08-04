@@ -1,0 +1,1 @@
+This repository hosts the Crypto Game Market Efficiency Data Engineering project, an initiative that automates the extraction of marketplace data from crypto games, employs Azure for data orchestration, cleanses the extracted data, and finally pushes it to Azure Data Lake for further processing and analysis with Azure Synapse and Power BI.

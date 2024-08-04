@@ -1,0 +1,11 @@
+Market Efficiency Metrics:
+
+- Transaction Volume
+- Transaction Number
+- Market Depth
+- Bid-Ask Spread
+- Price Volatility
+- Time to Sales
+- Conversion Rate
+
+I understand I can use Azure Data Factory to load data from an API into Azure and store in Azure Data Lake Gen2, then use Databricks for data transformation, to upload to Azure Synapse for data consumption in power BI (visualizations of metrics we discussed earlier.) 
